@@ -6,6 +6,10 @@
     },
     "type": "bitcoin.stats",
     "version": "0.0.1",
+    "source": {
+      "name": "Mempool",
+      "url": "https://mempool.space/"
+    },
     "fields": [
         {
             "name": "Last Block",
